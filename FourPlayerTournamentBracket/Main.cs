@@ -238,7 +238,7 @@ namespace FourPlayerTournamentBracket
 
         private void txtPlayers_TextChanged(object sender, EventArgs e)
         {
-            txtTotal.Enabled = !String.IsNullOrWhiteSpace(txtPlayers.Text);
+            txtTotal.Enabled = String.IsNullOrWhiteSpace(txtPlayers.Text);
             txtTotal.Text = txtPlayers.Text.Split(new string[]{ Environment.NewLine}, StringSplitOptions.RemoveEmptyEntries).Length.ToString();
         }
 
