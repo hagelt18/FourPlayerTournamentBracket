@@ -9,7 +9,6 @@ C:\Users\tim\Documents\Visual Studio 2012\Projects\FourPlayerTournamentBracket\F
 C:\Users\tim\Documents\Visual Studio 2012\Projects\FourPlayerTournamentBracket\FourPlayerTournamentBracket\obj\Debug\FourPlayerTournamentBracket.pdb
 C:\Users\tim\Documents\Visual Studio 2012\Projects\FourPlayerTournamentBracket\FourPlayerTournamentBracket\bin\Debug\FourPlayerTournamentBracket.exe
 C:\Users\tim\Documents\Visual Studio 2012\Projects\FourPlayerTournamentBracket\FourPlayerTournamentBracket\bin\Debug\FourPlayerTournamentBracket.pdb
-C:\Users\tim\Documents\Visual Studio 2012\Projects\FourPlayerTournamentBracket\FourPlayerTournamentBracket\obj\Debug\FourPlayerTournamentBracket.csprojResolveAssemblyReference.cache
 C:\Users\tim\Documents\Visual Studio 2012\Projects\FourPlayerTournamentBracket\FourPlayerTournamentBracket\obj\Debug\FourPlayerTournamentBracket.Main.resources
 C:\Users\tim\Documents\Visual Studio 2012\Projects\FourPlayerTournamentBracket\FourPlayerTournamentBracket\obj\Debug\FourPlayerTournamentBracket.Properties.Resources.resources
 C:\Users\tim\Documents\Visual Studio 2012\Projects\FourPlayerTournamentBracket\FourPlayerTournamentBracket\obj\Debug\FourPlayerTournamentBracket.csproj.GenerateResource.Cache
