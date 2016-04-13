@@ -1,0 +1,8 @@
+C:\Users\tim\documents\visual studio 2012\Projects\ValueDispersal\ValueDispersal\bin\Debug\ValueDispersal.exe
+C:\Users\tim\documents\visual studio 2012\Projects\ValueDispersal\ValueDispersal\bin\Debug\ValueDispersal.pdb
+C:\Users\tim\documents\visual studio 2012\Projects\ValueDispersal\ValueDispersal\obj\Debug\ValueDispersal.csprojResolveAssemblyReference.cache
+C:\Users\tim\documents\visual studio 2012\Projects\ValueDispersal\ValueDispersal\obj\Debug\ValueDispersal.Form1.resources
+C:\Users\tim\documents\visual studio 2012\Projects\ValueDispersal\ValueDispersal\obj\Debug\ValueDispersal.Properties.Resources.resources
+C:\Users\tim\documents\visual studio 2012\Projects\ValueDispersal\ValueDispersal\obj\Debug\ValueDispersal.csproj.GenerateResource.Cache
+C:\Users\tim\documents\visual studio 2012\Projects\ValueDispersal\ValueDispersal\obj\Debug\ValueDispersal.exe
+C:\Users\tim\documents\visual studio 2012\Projects\ValueDispersal\ValueDispersal\obj\Debug\ValueDispersal.pdb
